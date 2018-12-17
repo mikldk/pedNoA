@@ -1,4 +1,3 @@
-# pedNoA
-Pedigree - Number of Shared Alleles
+# pedNoA - Pedigree - Number of Shared Alleles
 
-Under development!
+_Under development!_
